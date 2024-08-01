@@ -1,0 +1,238 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "Rostyslav Pudlo",
+      "label": "Software Engineer (Python)",
+      "summary": "My professional skills consist of experience in software development, science, teaching, project management, working as team lead and tech lead.\n\nSoftware development is the biggest part of my experience. And at this moment I’d like to deal with client-server technologies (service-oriented architecture, distributed calculation system) based on python.\n\nI have knowledge in hiring systems (and applicant tracking system), geodata processing, algorithms and data structure, optimization methods, and computational geometry. And it also would be interesting to use information technology in such areas as robotics, construction, energetic and/or medicine.",
+      "location": {
+        "countryCode": "UA",
+        "address": "Ukraine"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "rostyslav-pudlo-87b275189",
+          "url": "https://www.linkedin.com/in/rostyslav-pudlo-87b275189/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "YozmaTech-Empowering Tech Entrepreneurs",
+        "position": "Software Engineer",
+        "startDate": "2021-05-31",
+        "endDate": "2023-05-31",
+        "summary": "Maintaining Anymatch (GloatX) project, a hiring platform based on AI and machine learning.\n- implementing feature requests and bug fixing of back-end part (python; django; celery; javascript);\n- platform stability maintaining;\n- deployment processes (jenkins; apache; mysql; rabbitmq; shell scripts; docker);\n- project management assistance",
+        "url": "https://www.linkedin.com/company/18166396"
+      },
+      {
+        "name": "EOS DATA ANALYTICS",
+        "position": "Team Lead",
+        "startDate": "2017-06-30",
+        "endDate": "2021-01-31",
+        "summary": "Development and maintaining EOS LiDAR Tool, a portal of storing, processing and visualizing geodata based on LiDAR technology.\n– project management (13 people); technical lead; cross team cooperation;\n– algorithms implementation of processes related to geoinformation and LIDAR data (python, numpy, scipy, matplotlib; gdal, pdal; unittest)\n– developing and implementation of web API for storing and processing geodata (python, django, django REST framework; postgis; C#, ASP.NET Core);\n– developing and implementation of distributed calculated system (python, celery);\n– preparing 3D geodata for web visualization (python, cesium);\n– creating and management of virtual images and containers (docker, docker-compose; AWS);\n– preparing data and information for science publications and conferences",
+        "url": "https://www.linkedin.com/company/10596231"
+      },
+      {
+        "name": "AMTOSS",
+        "position": "Developer",
+        "startDate": "2015-12-31",
+        "endDate": "2017-06-30",
+        "summary": "– developing and implementation of mobile operator web-portal (C#, ASP.NET MVC, ASP.NET Core, JavaScript);\n– developing and implementation of automation tests in billing system (C#, MSSQL, Oracle)",
+        "url": "https://www.linkedin.com/company/1957491"
+      },
+      {
+        "name": "GeoCloud",
+        "position": "Developer",
+        "startDate": "2012-12-31",
+        "endDate": "2015-12-31",
+        "summary": "– developing and algorithms implementation of processes relate to geoinformation and LIDAR data (C++, managed C++, C#);\n – plugins implementation (C#, WinForm);\n – implementation of functional to server part (Linux/Ubuntu, Python, MySql)"
+      },
+      {
+        "name": "National Aerospace University -'Kharkiv Aviation Institute'​",
+        "position": "Assistant Professor Of Computer Science",
+        "startDate": "2005-12-31",
+        "endDate": "2015-12-31",
+        "summary": "– Teaching courses (lectures and practice): Programming (Pascal, C#, Delphi, Visual Studio, .Net), Computer Graphics (GDI+, WPF, OpenGL (basics), DirectX (basics)), Graph Theory (algorithms and data structures of Discrete Mathematics), Operating Systems (C++, WinAPI, Linux), Optimization Methods, Computational Geometry.\n– Developing science (publishing articles, creating training manuals and making presentations at conferences.) in the field of Cutting and Packing Problem and Optimization Methods\n",
+        "url": "https://www.linkedin.com/company/658198"
+      }
+    ],
+    "education": [
+      {
+        "institution": "National Aerospace University -'Kharkiv Aviation Institute'​",
+        "area": "Applied Mathematics",
+        "studyType": "Master's degree",
+        "startDate": "2000-12-31",
+        "endDate": "2005-12-31",
+        "score": "",
+        "courses": []
+      }
+    ],
+    "publications": [],
+    "skills": [
+      {
+        "name": "Python (Programming Language)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Web Development",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Back-End Web Development",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Django",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "JavaScript",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Pandas (Software)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Geographic Information Systems (GIS)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Teaching",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Docker Products",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Linux",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "MySQL",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Project Management",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Research and Development (R&D)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Django REST Framework",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Data Structures",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Amazon EC2",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "NumPy",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "DevOps",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Git",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Team Leadership",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "C#",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "GDAL",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Test Automation",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "C++",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Amazon Web Services (AWS)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": ".NET Framework",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Celery",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Relational Databases",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "SciPy",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "",
+        "keywords": []
+      }
+    ],
+    "languages": [
+      {
+        "fluency": "Professional Working",
+        "language": "English"
+      },
+      {
+        "fluency": "Native Speaker",
+        "language": "Russian"
+      },
+      {
+        "fluency": "Native Speaker",
+        "language": "Ukrainian"
+      }
+    ]
+  }
