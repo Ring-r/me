@@ -35,12 +35,12 @@
         "url": "https://www.linkedin.com/company/18166396",
         "_responsibilities": [
           {
-            "name": "implementing feature requests and bug fixing of back-end part ()",
+            "name": "implementing feature requests and bug fixing of back-end part",
             "skills": ["python", "django", "celery", "javascript"]
           },
           "platform stability maintaining",
           {
-            "name": "deployment processes ()",
+            "name": "deployment processes",
             "skills": ["jenkins", "apache", "mysql", "rabbitmq", "shell scripts", "docker"]
           },
           "project management assistance"
@@ -72,7 +72,7 @@
             "skills": ["python", "cesium"]
           },
           {
-            "name": "creating and management of virtual images and containers (; )",
+            "name": "creating and management of virtual images and containers",
             "skills": [["docker", "docker-compose"], "AWS"]
           },
           "preparing data and information for science publications and conferences"
@@ -145,7 +145,7 @@
               "Computational Geometry"
             ]
           },
-          "Developing science (publishing articles, creating training manuals and making presentations at conferences.) in the field of Cutting and Packing Problem and Optimization Methods"
+          "Developing science (publishing articles, creating training manuals and making presentations at conferences) in the field of Cutting and Packing Problem and Optimization Methods"
         ]
       }
     ],
